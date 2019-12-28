@@ -6,6 +6,7 @@ horse-1td
 @http
 get /api
 get /
+get /spec
 
 @tables
 data
