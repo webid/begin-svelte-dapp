@@ -1,14 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+horse-1td
 
 @static
 
 @http
 get /api
+get /
 
 @tables
 data
